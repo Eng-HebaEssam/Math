@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a onclick="array1()">array1</a>
+    <ul id="array1"></ul>
+</body>
+<script>
+    var book = ['php', 'html', 'css', 'larvel'];
+    function array1() {
+        for (i = 0; i < book.length; i++) {
+            document.getElementById('array1').innerHTML += "<li>" + book[i] + "</li>";
+            console.log (book[i]);
+        }
+    }
+</script>
+</html>

@@ -1,0 +1,158 @@
+/*start glopal*/
+body {padding: 0;margin: 0;font-family: 'Montserrat Alternates', sans-serif;}
+a {text-decoration: none;}
+ul {list-style: none;}
+li {display: inline-block;}
+.reservation {
+    background-color: #F9AD81;
+    color: white;
+    padding:15px 15px; 
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 32px;
+    top: -11px;
+    position: relative;
+}
+/*end glopal*/
+/*start header*/
+header {
+    background-image: url(../images/hero-bg.jpg);
+    height: 100vh; 
+    color: white;
+    font-size: 40px;
+    background-size: cover;
+}
+nav {
+    background-color: #353535;
+    height:40px;
+    padding:30px;
+    width: 95%;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    float:left;
+}
+nav .reservation {float: right; top: -6s;}
+.logo { float: left;}
+.main { display: inline-block;margin-top: 0px;}
+.main li {margin-left: 50px;top: -11px;position: relative;}
+.main li a{color:white;font-size:20px;}
+.center {text-align: center;padding-top:30%;font-size: 60px;font-weight: bold;}
+.active a, .main li:hover a{color: #F9AD81 !important ;text-decoration: dotted;}
+.active a::before, .main li:hover a::before{    
+    content: '.';
+    position: relative;
+    top: 12px;
+    left: 50%;
+    font-size: 26px;
+    font-weight: bold;
+    transition: 0.7s ease-in-out;
+}
+/*end header*/
+/*start section1*/
+.section1 {
+    width: 80%;
+    margin:80px auto;
+    border:15px solid #F9AD81; 
+    padding:50px;
+    box-sizing: content-box;
+    overflow: hidden;
+}
+.section1 h5 {text-transform: uppercase; color: #8f8d8d;letter-spacing: 3px;}
+.section1 h2 {width: 47%;font-size:42px;font-weight: bold;}
+.section1 p, .section3 .left p, .section5 p {line-height: 28px; font-size:17px; color:#8f8d8d}
+.section1 .left {width: 50%;float: left;margin-right: 28px;}
+.section1 .right {width: 47%;float: left;}
+.section1 .right p {margin-bottom: 45px;}
+.section1 .right .reservation, .section3 .left .reservation {margin-left: 0;}
+/*end section1*/
+/*start section2*/
+.section2 .half {width:46%;float: left;height: 95vh;color: white;padding: 70px 0 0 48px;margin-bottom: 80px;} 
+.section2 .left{background-image: url(../images/hero-bg.jpg);}
+.section2 .right{background-image: url(../images/faci-2.jpg);}
+.section2 h2 {font-size:42px;font-weight: bold;}
+.section2 p {margin-top: -24px;text-transform: uppercase;letter-spacing: 3px;font-size: 11px;font-weight: bold;margin-bottom: 75%;}
+.section2 a {color: #fff;border: 3.5px solid #fff;font-size: 16px;padding: 20px 30px;}
+.section2 ul {margin-top: -128px;padding: 0;}
+.section2 ul li {margin-bottom: 27px;margin-right: 20px;}
+/*end section2*/
+/*start section3*/
+.section3, .section5 {width: 80%;margin:80px auto;box-sizing: content-box;overflow: hidden;}
+.section3 .half {width:46%;float: left;}
+.section3 .left {margin-right: 35px;}
+.section3 .left q, .about3 h2 {font-weight: 600;font-size: 37px;}
+.section3 .left p {margin-bottom: 57px;} 
+.section3  .right img {width: 214px;float: left; margin-bottom: 15px;}
+.section3 .marginright {margin-right: 15px;}
+/*end section3*/
+/*start footer*/
+footer {padding: 80px;background-color: #353535; color:#8f8d8d;height:125px}
+footer .part {width:32%;float: left;margin-right: 13px;}
+footer p {font-size: 15px;margin-top: 20px;}
+footer h5 {margin-top: 0;font-size: 20px;color: #F9AD81;font-weight: 100;}
+footer input {margin-top: 14px;}
+footer .text{background: #8f8d8d; border:0; width:69%;height: 40px;}
+footer .text::placeholder{color: #fff; padding-left: 15px;font-size: 11px;font-weight: 600;}
+footer .submit{
+    background: #F9AD81;
+    COlor: #fff;
+    border: 0;
+    width: 30%;
+    margin-left: -5px;
+    height: 42px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+footer i {color: #F9AD81;padding-right: 10px;}
+footer .fa-map-marker {position: relative;top: -20px;}
+footer span {display: inline-block;width: 86%;font-size: 15px;}    
+footer .width {width: 190px;margin-bottom: 14px;}
+footer .width:first-of-type{margin-top: 48px;}
+.last {background-color: #060606eb;padding: 33px 0 0 336px;}
+/*end footer*/
+/*start about page*/
+.about3 .left p {margin-bottom: 0;font-size: 15px;}
+.about3 .left p:last-of-type {margin-bottom: 57px;}
+.about3 h5 {    
+    text-transform: uppercase;
+    color: #8f8d8d;
+    margin-bottom: -15px;
+    letter-spacing: 4px;
+    font-size: 11px;
+}
+/*start section4*/
+.section4 {background-image: url(../images/hero-bg.jpg);height: 100px;padding: 80px; color: #fff;}
+.section4 .part, .section5 .part {width:32%;float: left;margin-right: 13px;}
+.section4 h2, .section4 .right {display: inline-block;}
+.section4 h2 {font-size: 50px;color: #F9AD81;position: relative;top: -12px;}
+.section4 .right {margin-left: 10px;}
+.section4 .right h3 {font-size: 25px;}
+.section4 .right span {color: #8f8d8d;text-transform: uppercase;font-size: 15px;}
+.section4 span {margin-top: -16px;display: block;}
+/*end section4*/
+/*start section5*/
+.section5 {text-align: center;}
+.section5 .part {width: 31%; margin-bottom: 20px;}
+.section5 h2 {    
+    text-align: left;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 40px;
+} 
+.section5 img {width: 100px;}
+.section5 h3 {font-size: 17px;}
+.section5 span {color: #8f8d8d;display: block;margin-top: -12px;letter-spacing: 2px;}
+.section5 p {font-size: 14px;}
+/*end section5*/
+/*start section6*/
+.section6 {background-color: #F9AD81 ; color: #fff;}
+.mains {width: 80%; margin: auto;padding: 40px 116px 25px;}
+.mains h3 {    
+    display: inline-block;
+    font-size: 30px;
+    margin-right: 222px;
+    position: relative;
+    top: -9px;
+}
+.section6 .reservation {background-color: #353535;}
+/*end section6*/
+/*end about page*/

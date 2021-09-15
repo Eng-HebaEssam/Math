@@ -1,0 +1,302 @@
+/*--------------------------------------------------------------
+# posts
+--------------------------------------------------------------*/
+.services .icon-box {
+    text-align: center;
+    border: 1px solid #d5e1ed;
+    padding: 80px 20px;
+    transition: all ease-in-out 0.3s;
+  }
+  
+  .services .icon-box .icon {
+    margin: 0 auto;
+    width: 64px;
+    height: 64px;
+    background:#009970;
+    border-radius: 5px;
+    transition: all .3s ease-out 0s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    transform-style: preserve-3d;
+  }
+  
+  .services .icon-box .icon i {
+    color: #fff;
+    font-size: 28px;
+  }
+  
+  .services .icon-box .icon::before {
+    position: absolute;
+    content: '';
+    left: -8px;
+    top: -8px;
+    height: 100%;
+    width: 100%;
+    background: #badaf7;
+    border-radius: 5px;
+    transition: all .3s ease-out 0s;
+    transform: translateZ(-1px);
+  }
+  
+  .services .icon-box h4 {
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 24px;
+  }
+  
+  .services .icon-box h4 a {
+    color: #2c4964;
+  }
+  
+  .services .icon-box p {
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+  }
+
+  .services .icon-box:hover {
+    background:#009970;
+    border-color:#009970;
+  }
+  
+  .services .icon-box:hover .icon {
+    background: #fff;
+  }
+  
+  .services .icon-box:hover .icon i {
+    color:#009970;
+  }
+  
+  .services .icon-box:hover .icon::before {
+    background: #52eec4;
+  }
+  
+  .services .icon-box:hover h4 a, .services .icon-box:hover p {
+    color: #fff;
+  }
+  
+/*--------------------------------------------------------------
+# Courses
+--------------------------------------------------------------*/
+.courses .course-item {
+  border-radius: 5px;
+  border: 1px solid #eef0ef;
+}
+
+.courses .course-content {
+  padding: 15px;
+}
+
+.courses .course-content h3 {
+  font-weight: 700;
+  font-size: 20px;
+  text-align: right;
+}
+
+.courses .course-content h3 a {
+  color: #37423b;
+  transition: 0.3s;
+
+}
+
+.courses .course-content h3 a:hover {
+  color: #009970;
+}
+
+.courses .course-content p {
+  font-size: 14px;
+  color: #777777;
+  text-align: right;
+}
+
+.courses .course-content h4 {
+  font-size: 14px;
+  background:#009970;
+  padding: 7px 14px;
+  color: #fff;
+  margin: 0;
+}
+
+.courses .course-content .price {
+  margin: 0;
+  font-weight: 700;
+  font-size: 18px;
+  color: #37423b;
+}
+
+.courses .trainer {
+  padding-top: 15px;
+  border-top: 1px solid #eef0ef;
+}
+
+.courses .trainer .trainer-profile img {
+  max-width: 50px;
+  border-radius: 50px;
+}
+
+.courses .trainer .trainer-profile span {
+  padding-left: 10px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #5a6c60;
+}
+
+.courses .trainer .trainer-rank {
+  font-size: 18px;
+  color: #657a6d;
+}
+
+/*--------------------------------------------------------------
+# posts page
+--------------------------------------------------------------*/
+.posts .card {
+  border: 0;
+  padding: 160px 20px 20px 20px;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.posts .title h2{
+  color: #263d4d;
+  font-size: 40px;
+  font-weight: bold;
+  border-bottom: 5px solid #009970;
+  width: 168px;
+  margin:auto;
+  margin-bottom: 60px;
+}
+
+.posts .card-body {
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 15px 30px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  transition: ease-in-out 0.4s;
+  border-radius: 5px;
+}
+
+.posts .card-title {
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.posts .card-title a {
+  color: #263d4d;
+}
+
+.posts .card-text {
+  color: #5e5e5e;
+  text-align: right;
+}
+
+.posts .read-more a {
+  color:#263d4d;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  transition: 0.4s;
+}
+
+.posts .read-more a:hover {
+  text-decoration: underline;
+}
+
+.posts .card:hover .card-body {
+  background: #009970;
+}
+
+.posts .card:hover .read-more a, .posts .card:hover .card-title, .posts .card:hover .card-title a, .posts .card:hover .card-text {
+  color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Events
+--------------------------------------------------------------*/
+#events {
+  padding: 60px 0 30px 0;
+  margin-top: 20px;
+}
+#events .events {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+.events .card {
+  border: 0;
+  padding: 0 30px; 
+  margin-bottom: 60px;
+  position: relative;
+}
+
+.events .card-img {
+  width: calc(100% + 60px);
+  margin-right: -30px;
+  overflow: hidden;
+  z-index: 9;
+  border-radius: 0;
+}
+
+.events .card-img img {
+  max-width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+
+.events .card-body {
+  z-index: 10;
+  background: #fff;
+  border-top: 4px solid #fff;
+  padding: 30px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  margin-top: -60px;
+  transition: 0.3s;
+}
+
+.events .card-title {
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.events .card-title a {
+  color: #263d4d;
+  transition: 0.3s;
+}
+
+.events .card-text {
+  color:#263d4d;
+  text-align: right;
+}
+.events .card-body  p{
+  text-align: right;
+}
+.events .read-more a {
+  color: #777777;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px;
+  transition: 0.3s;
+}
+
+.events .read-more a:hover {
+  color: #263d4d;
+}
+
+.events .card:hover img {
+  transform: scale(1.1);
+}
+
+.events .card:hover .card-body {
+  border-color: #009970;
+}
+
+.events .card:hover .card-body .card-title a {
+  color:#009970;
+}
+
+  

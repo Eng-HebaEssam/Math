@@ -1,0 +1,2054 @@
+20210716T181315: m3amath.com/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+
+20210716T181625: m3amath.com/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+
+20210716T181643: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T181657: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T181657: m3amath.com/admin/dashboard.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+
+20210716T181657: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T181713: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T181713: m3amath.com/admin/dashboard.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+
+20210716T181713: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T181737: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T181737: m3amath.com/admin/dashboard.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+
+20210716T181737: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T181743: m3amath.com/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+
+20210716T181745: m3amath.com/login.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/login.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/login.php on line 3
+
+20210716T181752: m3amath.com/login.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/login.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/login.php on line 3
+
+20210716T181753: m3amath.com/main.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 3
+
+20210716T181754: m3amath.com/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+
+20210716T181926: m3amath.com/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+
+20210716T181931: m3amath.com/login.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/login.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/login.php on line 3
+
+20210716T181932: m3amath.com/login.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/login.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/login.php on line 3
+
+20210716T181933: m3amath.com/main.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 3
+
+20210716T181933: m3amath.com/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 3
+
+20210716T181940: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T181954: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T181954: m3amath.com/admin/dashboard.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+
+20210716T181954: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T182155: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T182246: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T182335: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T182335: m3amath.com/admin/dashboard.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+
+20210716T182335: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T182429: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T182430: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T182432: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T182446: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T182447: m3amath.com/admin/dashboard.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/dashboard.php on line 3
+
+20210716T182447: m3amath.com/admin/index.php
+PHP Warning:  session_start(): open(/hermes/phpsessions/m/9/s/6/sess_m9s6v1r86jn36f3gu6svsml1i4nlk5vg, O_RDWR) failed: Permission denied (13) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+PHP Warning:  session_start(): Failed to read session data: files (path: 4;/hermes/phpsessions) in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 2
+
+20210716T193806: m3amath.com/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 397
+PHP Notice:  Undefined index: email in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 398
+PHP Notice:  Undefined index: message in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 399
+
+20210717T173528: m3amath.com/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 397
+PHP Notice:  Undefined index: email in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 398
+PHP Notice:  Undefined index: message in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 399
+
+20210719T013848: m3amath.com/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 397
+PHP Notice:  Undefined index: email in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 398
+PHP Notice:  Undefined index: message in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 399
+
+20210719T123546: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210722T131828: m3amath.com/admin/index.php
+PHP Notice:  Undefined index: user in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 11
+PHP Notice:  Undefined index: pass in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/index.php on line 12
+
+20210726T105924: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210727T103742: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210729T213452: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210730T141651: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T141658: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T141823: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T141835: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T144144: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T144155: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T144430: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T144439: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T144449: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T144502: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210730T144519: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T054752: m3amath.com/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 397
+PHP Notice:  Undefined index: email in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 398
+PHP Notice:  Undefined index: message in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 399
+
+20210731T055156: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T055203: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T055214: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T055224: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T055231: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T055319: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T055349: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T055701: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T060527: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T060531: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T060659: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T061319: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T061336: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T062026: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T062749: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T062805: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210731T110044: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210731T110738: m3amath.com/admin/category.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/category.php on line 111
+PHP Notice:  Undefined index: ordering in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/category.php on line 112
+
+20210731T110916: m3amath.com/admin/category.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/category.php on line 111
+PHP Notice:  Undefined index: ordering in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/category.php on line 112
+
+20210731T111720: m3amath.com/admin/category.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/category.php on line 111
+PHP Notice:  Undefined index: ordering in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/category.php on line 112
+
+20210731T230821: m3amath.com/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 397
+PHP Notice:  Undefined index: email in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 398
+PHP Notice:  Undefined index: message in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 399
+
+20210801T061955: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T062020: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T062021: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T062102: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T074127: m3amath.com/admin/members.php
+PHP Notice:  Undefined index: password in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/members.php on line 137
+
+20210801T074150: m3amath.com/admin/members.php
+PHP Notice:  Undefined index: password in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/admin/members.php on line 137
+
+20210801T093407: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210801T101717: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T101721: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T114714: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T132932: m3amath.com/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 397
+PHP Notice:  Undefined index: email in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 398
+PHP Notice:  Undefined index: message in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 399
+
+20210801T182042: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T200637: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T200736: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T200815: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T200856: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T200911: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T200931: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T201000: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T201058: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T201149: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T201152: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T201209: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T201422: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T201454: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210801T201626: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T020111: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T020130: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T020440: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T072059: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T081650: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T081714: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T081729: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T081736: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T081741: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T081745: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T081748: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T081751: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T081856: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T115927: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210802T120413: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210802T141052: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T141705: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T152738: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210802T160205: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210802T160247: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160250: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160301: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160304: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160329: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160334: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160335: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160337: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160409: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160424: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160608: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T160642: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160642: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160647: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T160655: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T161102: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T161109: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T161217: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T161221: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T161226: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T161259: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T161315: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T161722: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T161739: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T163326: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T163330: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T163335: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T172131: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T172137: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T172440: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T172445: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T172447: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T173204: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T173217: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T173235: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210802T173702: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T173702: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T173806: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T173808: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T173911: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T173946: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T173955: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T173956: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T174008: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T174018: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T174122: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T174223: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T174236: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210802T183335: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210803T044637: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T044638: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T062112: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210803T084218: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T084301: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210803T084432: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T165010: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T165459: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T165612: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T181022: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T192344: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T192348: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T192355: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210803T192355: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T080544: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T080547: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T080553: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T131029: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T131029: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T131034: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T131040: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T131100: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T131107: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T131119: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T131131: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T131219: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T154333: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210804T154545: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210804T171236: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T175808: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T175811: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T175824: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T175831: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T184558: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210804T184627: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210804T203403: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T043437: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T045605: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210805T045633: www.m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T045646: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210805T115643: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210805T115708: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210805T115924: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210805T115926: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210805T130639: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T130754: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T131631: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210805T145820: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210805T165245: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T165257: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T165259: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T165306: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T165340: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T165409: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T165513: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T174721: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T175006: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T175023: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T175027: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T175042: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T175050: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T180421: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184240: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184300: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184305: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184339: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184432: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184435: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184439: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184451: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184458: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184525: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T184548: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T193851: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210805T194057: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T030231: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T035103: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T075726: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T082035: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T082048: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T085250: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T092355: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210806T092403: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210806T100905: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T100919: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T100928: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T101012: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T102106: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T102145: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T102151: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T102157: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T111729: m3amath.com/account.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/account.php on line 11
+
+20210806T111730: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111731: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111732: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111733: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111734: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111735: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111736: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111737: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111738: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111741: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111742: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111743: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111744: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111745: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111746: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111747: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111749: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111750: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111751: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111752: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111753: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111754: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111755: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111758: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111759: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111800: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111801: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111802: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111803: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111804: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111805: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111806: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111807: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111812: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111813: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111814: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111815: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111816: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111817: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111818: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111819: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111820: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111821: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111824: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111825: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111826: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111827: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111828: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111829: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111830: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111831: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111832: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111833: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111835: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111836: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111837: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111838: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111840: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111841: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111842: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111843: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111844: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111845: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111846: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111847: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111848: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111850: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111851: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111857: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111858: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111859: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111900: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111902: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111904: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111905: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111906: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111907: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111908: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111926: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111928: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111929: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111929: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111932: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111940: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111940: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111946: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111954: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111955: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T111956: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112001: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112002: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112003: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112004: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112005: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112006: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112008: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112008: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112021: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112022: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112023: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112024: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112025: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112026: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112027: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112028: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112036: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112037: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112038: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112044: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112045: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112048: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112049: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112050: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112051: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112052: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112055: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112056: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112057: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112058: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112100: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T112102: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 11
+
+20210806T125640: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T141642: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T150918: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210806T161413: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210806T170022: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210807T034259: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210807T044702: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210807T061105: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210807T092312: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210807T092325: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210807T092332: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210807T092345: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210807T092421: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210807T092948: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210808T054512: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210808T115324: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210808T151446: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210808T160628: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210809T062124: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210809T141309: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210809T155825: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210809T164502: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210809T170758: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210809T201102: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210809T220437: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210809T220441: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210809T220447: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210810T063209: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210810T090631: m3amath.com/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 397
+PHP Notice:  Undefined index: email in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 398
+PHP Notice:  Undefined index: message in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 399
+
+20210810T110210: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210810T110219: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210810T120227: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210810T120311: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210810T120324: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210810T190816: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210810T190820: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210810T190826: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210810T212220: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210810T212558: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210810T215047: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210811T031421: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T040641: m3amath.com/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 397
+PHP Notice:  Undefined index: email in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 398
+PHP Notice:  Undefined index: message in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 399
+
+20210811T044350: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T044407: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T044502: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T051132: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T081426: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T081434: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T081437: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T084422: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T093733: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210811T155759: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210811T155803: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210811T165928: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210812T043430: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210812T052240: www.m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210812T081042: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210812T111223: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210812T154506: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210812T155732: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210813T082656: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210813T082800: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210813T082801: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210813T082801: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210813T082802: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210813T084340: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210813T092107: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210813T131345: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210814T033937: www.m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210814T034001: www.m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210814T034427: www.m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210814T081736: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210814T081842: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210814T082018: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210814T082034: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210814T082103: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210814T150543: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210814T165930: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210815T100127: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210815T100130: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210815T100144: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210815T104201: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210815T110518: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210815T131748: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210815T140408: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210815T162026: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210815T162242: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210815T181519: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210815T181529: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T020622: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210816T055115: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210816T060716: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T100845: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T100948: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T102130: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T161636: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T204119: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T204154: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T204203: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T204322: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210816T205044: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T052345: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T052441: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T052517: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T052521: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T052525: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T052532: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T163647: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210817T165338: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T170202: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210817T185637: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T185700: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T185707: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210817T185715: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T011726: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T063603: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T063717: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T082213: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210818T121309: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T150410: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210818T180209: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T180235: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T180239: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T183420: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T183436: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T183524: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210818T191138: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210819T082821: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210819T085131: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210820T083841: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210821T082212: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210821T164941: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210821T164953: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T015411: m3amath.com/index.php
+PHP Notice:  Undefined index: username in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 397
+PHP Notice:  Undefined index: email in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 398
+PHP Notice:  Undefined index: message in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/index.php on line 399
+
+20210822T060759: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T060951: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T061147: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T061312: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T061638: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T061638: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T072627: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T072648: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T162705: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T162751: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T162811: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210822T162829: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210823T023212: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210823T033515: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210823T070448: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210823T070449: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210823T071121: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210823T074939: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210823T084014: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210823T115328: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210823T115409: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210824T095157: www.m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210824T135038: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210824T160958: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210824T172115: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210824T173608: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210825T133627: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210825T163430: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T045045: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T080940: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T081022: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T101443: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T101455: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T101505: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T101522: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T101616: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T101634: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T114158: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T114253: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T151121: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210826T151221: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210826T151359: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210826T160645: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T160701: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T160703: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T160705: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T160821: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T160840: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161548: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161556: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161658: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161708: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161718: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161828: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161833: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161839: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161844: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161858: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161903: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161909: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T161914: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T162003: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T162026: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T162030: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T162035: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T162041: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T162046: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T162221: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210826T180104: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T024324: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210827T051942: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T052017: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T052027: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T052038: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T052643: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210827T075501: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T083357: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T085526: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T085539: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T125259: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T151120: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210827T174104: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T044208: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T044630: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T044735: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T093909: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T140927: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210828T141940: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T142707: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T143409: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+
+20210828T151145: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T151158: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T151214: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T151224: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T151230: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210828T151308: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T052611: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T052650: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T052701: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T062803: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T062805: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T062808: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T062815: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T062818: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T070422: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T154658: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T155003: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210829T165347: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210830T031608: m3amath.com/register.php
+PHP Notice:  Undefined index: parent in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 18
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'groupid' cannot be null in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php:44
+Stack trace:
+#0 /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/register.php on line 
+20210830T053148: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210830T070802: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210830T070808: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210830T073530: m3amath.com/main.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/main.php on line 39
+
+20210830T083913: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210830T153303: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210830T153638: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210830T153646: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+
+20210830T182215: m3amath.com/lesson.php
+PHP Notice:  Trying to access array offset on value of type bool in /hermes/bosnaweb23a/b1793/ipg.mohabdelazize37720/lesson.php on line 71
+

@@ -1,0 +1,32 @@
+body, .profile {background-image: linear-gradient(to right, #3a3947, #b0b0b0, #3d4447);}
+body, .profile { height: 100%}
+.right,
+.greatings,
+.pro .card,
+.all .col-md-4, .maind, .alls h3, .les, .commen, .tagss, .setting_all, .breadcrumb, .leftcol, .rightcol {background-color: #9098a0;}
+.right .icons a,
+.all .fa-hand-peace-o, .alls h3, .contenent .col-md-4 i, .number, .maincont span  {color: #d8d8d8;}
+profile-settings span,
+.profile-settings .fa-ellipsis-v,
+.profile-settings .fa-bars,
+.all .h2, .com h3, .les h2, .commen h3,  h1, .alls label {color: #d7ccc8;}
+.profile-settings .dropdown-menu a, .all p, .allmain p {color: #383848}
+.all .form-control, .add-comment .form-control {background-color: #d8d8d8; border: 1px solid #9098a0; color: navy;}
+.all .col-md-4 .shown, .com h4 {background-color: #d8d8d8;}
+.pro .card-link, .com p, .les .lead, .tagss p {color: white;}
+.profile-settings span {border: 2px solid #d7ccc8; color: white!important}
+.profile-settings .dropdown-menu li:hover {background-color: #d7ccc8; }
+.profile-settings .fa-moon-o {color: navy}
+.profile-settings .fa-flash, .alls h1, .profile h1, .les h3, .add-comment label, .allmain h2, .allmain h3 {color: #383030;font-weight: bold;}
+.profile-settings .fa-flash:hover {color: navy}
+.com a, .com h4 {color: #383030;}
+.comment-box .lead {background-color: #d8d8d8;}
+.comment-box .lead:before {border-color: transparent #d8d8d8 transparent transparent;}
+.alls .control-label, .text, .allmain a, .maincont a, .greatings h2, .greatings p, .pro .card-header, .tagss a {color: beige;}
+.com .col-md-6 h2, .maind h3 {color: #d6d6d7;font-weight: bold;} 
+.maind p {color: #f1f3f4;}
+.right .icons.selected, .comment, .allmain, .contenent .col-md-4, .maincont, .full-view a  {background-color: #686070}
+.breadcrumb-item.active, .card-body a {
+    color: #2c343c;
+}
+.contenentlist a {background-color: #686070; color: #fff;}
